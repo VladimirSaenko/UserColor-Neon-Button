@@ -1,4 +1,4 @@
-# RandomColor-Neon-Button
+# UserColor-Neon-Button
 
 Сайт с неоновой кнопкой, цвет которой можно поставить собственный
 
