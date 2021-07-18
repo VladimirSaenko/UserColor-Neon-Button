@@ -1,5 +1,5 @@
 
-"use strict"
+"use strict";
 
 let neonButton = document.getElementById("btn");
 let userColor = document.getElementById("userColor");
@@ -47,7 +47,6 @@ neonButton.addEventListener('mousemove', function() {
         span3.style.background = `linear-gradient(90deg,transparent, ${color3})`;
         span4.style.background = `linear-gradient(90deg,transparent, ${color3})`;
     }
-
 })
 
 neonButton.addEventListener('mouseleave', function() {
