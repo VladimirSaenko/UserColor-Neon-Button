@@ -2,7 +2,7 @@
 
 ### Сайт с неоновой кнопкой, цвет которой можно поставить собственный
 
-## Portfolio-3 {
+## Portfolio {
 
 ### https://vladimirsaenko.github.io/Portfolio-3/sites/site-22/UserColor-Neon-Button/index.html
 
