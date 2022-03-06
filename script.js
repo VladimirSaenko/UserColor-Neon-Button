@@ -24,9 +24,6 @@ userColor.addEventListener('input', () => {
     span2.style.background = `linear-gradient(90deg,transparent, ${color})`;
     span3.style.background = `linear-gradient(90deg,transparent, ${color})`;
     span4.style.background = `linear-gradient(90deg,transparent, ${color})`;
-    if(userColor.value == "#000000") {
-        getRandomColor();
-    }
 })
 
 neonButton.addEventListener('mousemove', function() {
